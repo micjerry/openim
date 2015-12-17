@@ -13,5 +13,4 @@ try:
 except Exception as e:
     logging.error("create tp user failed")
 
-
 more details refer to test
